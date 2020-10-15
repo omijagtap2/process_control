@@ -1,6 +1,6 @@
 #! /usr/bin/env python
 #  -*- coding: utf-8 -*-
-#
+# Best code
 # process_control, (c) 2014, see AUTHORS.  Licensed under the GNU GPL.
 """A simple python library to estimate first order plus deadtime models and
 calculate pid values.
